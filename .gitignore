@@ -1,0 +1,9 @@
+token.txt
+.cache
+.npm
+.ssh
+.bash_history
+.bash_logout
+.bashrc
+.profile
+a.out
